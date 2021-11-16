@@ -1,0 +1,63 @@
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px;
+    display: block;
+    background-color: #FEF9EF;
+
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.header,
+h1 {
+    display: inline;
+    background-color: #FEF9EF;
+    border-width: 5px;
+
+
+}
+
+.quote {
+    display: inline;
+    border-width: 5px;
+    background-color: #FEF9EF;
+}
+
+
+.Skills {
+
+    display: inline;
+    border-width: 3px;
+    background-color: #FEF9EF;
+
+
+
+}
+
+.list {
+
+    display: inline-block;
+    border-width: 3px;
+    background-color: #FEF9EF;
+    background: linear-gradient(#FEF9EF, #FEF1E6);
+    box-shadow: inset 5px 0 5px -5px;
+}
+
+.about {
+    display: inline-block;
+    border: solid;
+    border-width: 3px;
+    background-color: #FEF9EF;
+
+}
+

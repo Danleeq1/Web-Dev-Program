@@ -1,0 +1,59 @@
+.about {
+    display: inline-block;
+    border-width: 3px;
+    background-color: #FEF9EF;
+
+}
+
+body {
+
+    background: linear-gradient(#2193b0, #6dd5ed);
+}
+
+.content,
+h2 {
+    display: inline;
+    border-width: 3px;
+    background-color: #FEF9EF;
+}
+
+.life,
+h3 {
+    display: inline;
+    border-width: 3px;
+    background-color: #FEF9EF;
+}
+
+
+.why,
+p,
+h4 {
+    display: inline;
+    border-width: 3px;
+    background-color: #FEF9EF;
+}
+
+.resume,
+h1
+ {
+    display: inline;
+    background-color: #FEF9EF;
+}
+
+.education-details,
+table,
+td {
+    display: inline-table;
+    border-width: 3px;
+    background-color: none;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+
+
+}
+

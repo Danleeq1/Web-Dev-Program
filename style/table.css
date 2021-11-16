@@ -1,0 +1,125 @@
+body {
+    background: radial-gradient(#e66465, #9198e5);
+}
+
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+table,
+th,
+td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+th {
+
+    background-color: lightgray;
+    padding: 15px;
+    padding-right: 15px;
+    text-align: center;
+
+}
+
+.Nintendo {
+    background-color: blanchedalmond;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+
+.Ubisoft {
+    background-color: lightgray;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.Blizzard {
+
+    background-color: blanchedalmond;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+
+}
+
+.Naughty {
+
+    background-color: lightgray;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+
+}
+
+.Electronic {
+
+    background-color: blanchedalmond;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+
+.Sony {
+
+    background-color: lightgray;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+tr:hover {
+    background-color: lightblue;
+}
+
+.home {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: (#94B3FD);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{ 
+    background-color: #111;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color:gray;
+    }
